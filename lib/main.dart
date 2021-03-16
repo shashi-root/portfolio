@@ -118,7 +118,7 @@ class MyHomePage extends StatelessWidget {
                                     FlatButton(
                                         onPressed: () => {
                                               html.window.open(
-                                                  'https://drive.google.com/open?id=1Ysf0zRhVKBCrYcyTXWjZ_VbZZ8bkAgoa',
+                                                  'https://drive.google.com/file/d/1UhVCoAaWJnyKHE7YIIe9qYwtppu8mJvy/view?usp=sharing',
                                                   'Resume')
                                             },
                                         color: Colors.blue,
