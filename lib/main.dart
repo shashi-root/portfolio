@@ -41,7 +41,7 @@ class MyHomePage extends StatelessWidget {
           width: 10,
         ),
         bottomButtonsWidget(
-            'Instagram', 'https://www.instagram.com/shashyaa_1.0/'),
+            'Instagram', 'https://www.instagram.com/shashi_2.0.0/'),
       ];
 
   @override
@@ -118,7 +118,7 @@ class MyHomePage extends StatelessWidget {
                                     FlatButton(
                                         onPressed: () => {
                                               html.window.open(
-                                                  'https://drive.google.com/file/d/1UhVCoAaWJnyKHE7YIIe9qYwtppu8mJvy/view?usp=sharing',
+                                                  'https://drive.google.com/file/d/13Mb8_buKA3JHNHgDqDmXaStxnJ-2A6ei/view?usp=sharing',
                                                   'Resume')
                                             },
                                         color: Colors.blue,
